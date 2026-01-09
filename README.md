@@ -25,7 +25,6 @@ $$\frac{\partial q}{\partial t} + \frac{\partial f(q)}{\partial x} = S(q)$$
 * **Riemann Solvers:**
     * **Godunov’s Method:** An exact Riemann solver approach used for the Burgers' equation.
     * **Roe’s Approximate Riemann Solver:** A linearized solver used for the Shallow Water Equations.
-* **Vectorized Performance:** Optimized flux calculations using `Tullio.jl` and `LinearAlgebra`.
 
 
 
