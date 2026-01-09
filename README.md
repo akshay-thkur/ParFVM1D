@@ -43,8 +43,3 @@ $$\frac{\partial q}{\partial t} + \frac{\partial f(q)}{\partial x} = S(q)$$
 
 ## Getting Started
 * Required Julia Packages: `MPI`, `Tullio`, `MAT`, `LinearAlgebra`
-
-### Installation
-Initialize the environment and download dependencies:
-```bash
-julia addpackages.jl
